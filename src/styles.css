@@ -1,0 +1,31 @@
+/* Base button styles */
+.btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  border: none;
+  display: inline-block;
+  text-align: center;
+  transition: background-color 0.3s ease;
+}
+
+/* Primary button styles */
+.btn.primary {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.btn.primary:hover {
+  background-color: #0056b3;
+}
+
+/* Secondary button styles */
+.btn.secondary {
+  background-color: #6c757d;
+  color: #fff;
+}
+
+.btn.secondary:hover {
+  background-color: #5a6268;
+}
