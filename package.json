@@ -1,6 +1,6 @@
 {
   "name": "ts-react-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Button Libary For React Js",
   "main": "index.js",
   "scripts": {
